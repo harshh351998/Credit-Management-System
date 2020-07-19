@@ -1,5 +1,5 @@
 # Credit-Management-System
-## Spark Foundations 
+## Sparks Foundation 
 In this web application user can send money to other people and transcation history is viewed. 
 
 ## Technology Stack
